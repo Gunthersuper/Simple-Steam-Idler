@@ -1,0 +1,14 @@
+{
+  "name": "steamidler",
+  "version": "1.0.0",
+  "description": "Simple steam games idler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/Gunthersuper",
+  "license": "ISC",
+  "dependencies": {
+    "steam-user": "^4.19.3"
+  }
+}
